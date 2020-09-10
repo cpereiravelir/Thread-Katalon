@@ -30,12 +30,6 @@
       <testCaseId>Test Cases/Thread - Contact Us/Contact us - Validation</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>39482b2c-c3a5-4985-9757-3f7794b88fc8</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Thread - Login/example</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>30ff775a-6d93-4d90-9e41-a36f6f07663f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
