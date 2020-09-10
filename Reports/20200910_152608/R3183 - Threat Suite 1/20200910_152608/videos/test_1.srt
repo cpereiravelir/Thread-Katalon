@@ -1,0 +1,12 @@
+1
+00:00:00,339 --> 00:00:00,346
+1. openBrowser("")
+
+2
+00:00:06,283 --> 00:00:06,284
+5. navigateToUrl("http://dev.graybox.velir.com/qa-automated-testing-folder/qa-search-page?q&sortBy=relevance&sortOrder=asc&page=1")
+
+3
+00:00:06,668 --> 00:00:06,672
+9. setText(findTestObject("Object Repository/TestingRR/Thread/Thread - Search/Page_Search  Thread Travel/input_Search_site-search"), "QA landing page")
+

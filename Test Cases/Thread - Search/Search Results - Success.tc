@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Results - Success</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>com.katalon.plugin.testrail.TestRailIntegration</productName>
+      <properties>
+         <entry>
+            <key>testRail.testcase.id</key>
+            <value>399020</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>18c5b0f9-417a-4ee7-b899-6afa5d35134b</testCaseGuid>
+   <variable>
+      <defaultValue>'QA Landing Page Title'</defaultValue>
+      <description></description>
+      <id>9533851e-f9e6-4361-b3b2-0ecafc15bb10</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
